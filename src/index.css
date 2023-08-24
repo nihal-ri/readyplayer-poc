@@ -26,4 +26,5 @@ body {
 .avatar-container {
   width: 100vw;
   height: 100vh;
+  background: rgb(9, 20, 26);
 }
